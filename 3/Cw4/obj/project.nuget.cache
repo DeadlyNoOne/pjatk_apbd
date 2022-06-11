@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPcgCYCX7M88CDUpQxzHWUw/If1Enj7fu/dyDbQdWz1kcnziohIjENmjbhmb+2ZaCdppEGGJhyXrsqW4k7TkzQ==",
+  "success": false,
+  "projectFilePath": "D:\\School\\APBD\\3\\Cw4\\Cw4.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu Swashbuckle.AspNetCore. W źródłach nie istnieją pakiety z tym identyfikatorem: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu System.Data.SqlClient. W źródłach nie istnieją pakiety z tym identyfikatorem: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\bin\Debug\net6.0\Crawler.exe
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\bin\Debug\net6.0\Crawler.deps.json
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\bin\Debug\net6.0\Crawler.runtimeconfig.json
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\bin\Debug\net6.0\Crawler.dll
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\bin\Debug\net6.0\Crawler.pdb
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\Crawler.csproj.AssemblyReference.cache
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\Crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\Crawler.AssemblyInfoInputs.cache
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\Crawler.AssemblyInfo.cs
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\Crawler.csproj.CoreCompileInputs.cache
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\Crawler.dll
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\refint\Crawler.dll
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\Crawler.pdb
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\Crawler.genruntimeconfig.cache
+C:\PRV\PJWSTK\APBD\cwiczenia-1---crawler-s21461\Crawler\obj\Debug\net6.0\ref\Crawler.dll

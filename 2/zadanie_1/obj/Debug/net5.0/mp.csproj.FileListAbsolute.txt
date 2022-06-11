@@ -1,0 +1,36 @@
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.exe
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.deps.json
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.runtimeconfig.json
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.runtimeconfig.dev.json
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.dll
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\ref\mp.dll
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.pdb
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.csproj.AssemblyReference.cache
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.AssemblyInfoInputs.cache
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.AssemblyInfo.cs
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.csproj.CoreCompileInputs.cache
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.csproj.CopyComplete
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.dll
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\ref\mp.dll
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.pdb
+C:\Users\s21461\Desktop\New folder\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.genruntimeconfig.cache
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.exe
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.deps.json
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.runtimeconfig.json
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.runtimeconfig.dev.json
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.dll
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\mp.pdb
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.csproj.AssemblyReference.cache
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.AssemblyInfoInputs.cache
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.AssemblyInfo.cs
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.csproj.CoreCompileInputs.cache
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.csproj.CopyComplete
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.dll
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\refint\mp.dll
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.pdb
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\mp.genruntimeconfig.cache
+C:\PRV\PJWSTK\APBD\cwiczenia2_mp-s21461\mp\obj\Debug\net5.0\ref\mp.dll

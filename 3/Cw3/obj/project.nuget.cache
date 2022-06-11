@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "V+EfahpvfS3Wy4WJV839T8nt/ijktQJ54yOqW7gRa5mJWf58UmDFAuGQgG6vTJeowRneNPiT2sVKiN5Cb5+ogA==",
+  "success": false,
+  "projectFilePath": "D:\\School\\APBD\\3\\Cw3\\Cw3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu CsvHelper. W źródłach nie istnieją pakiety z tym identyfikatorem: Microsoft Visual Studio Offline Packages",
+      "libraryId": "CsvHelper",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

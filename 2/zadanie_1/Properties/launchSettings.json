@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mp": {
+      "commandName": "Project",
+      "commandLineArgs": " \"C:\\PRV\\PJWSTK\\APBD\\cwiczenia2_mp-s21461\\dane.csv\" \"C:\\PRV\\PJWSTK\\APBD\\cwiczenia2_mp-s21461\" json"
+    }
+  }
+}
