@@ -50,7 +50,7 @@ namespace Cw4.Controllers
             }
             else if (result == 1)
             {
-                return NotFound("animal o podanym numerze nie istnieje");
+                return NotFound("Animal with given number does not exist.");
             }
             else
                 return BadRequest();
@@ -66,7 +66,7 @@ namespace Cw4.Controllers
             }
             else if (result == 1)
             {
-                return NotFound("Animal o podanym numerze nie istnieje");
+                return NotFound("Animal with given number does not exist.");
             }
             else
                 return BadRequest();

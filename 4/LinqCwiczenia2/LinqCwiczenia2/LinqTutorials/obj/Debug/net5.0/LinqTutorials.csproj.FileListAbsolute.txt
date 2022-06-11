@@ -1,0 +1,16 @@
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\ref\LinqTutorials.dll
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
+C:\Users\Tomek\Desktop\PJATK\VI-sem\APBD\cwiczenia4_mp-s19754\LinqCwiczenia2\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.AssemblyReference.cache

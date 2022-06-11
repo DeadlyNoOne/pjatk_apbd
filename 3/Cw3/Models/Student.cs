@@ -8,18 +8,18 @@ namespace Cw3.Models
 {
     public class Student
     {
-        [Required(ErrorMessage = "Numer indeksu jest wymagany")]
-        [RegularExpression(@"^s{1}[0-9]{4}", ErrorMessage = "Błędny format numeru indeksu")]
+        [Required(ErrorMessage = "Index number is required")]
+        [RegularExpression(@"^s{1}[0-9]{4}", ErrorMessage = "Wrong index number format")]
         public string IndexNumber { get; set; }
 
-        [Required(ErrorMessage = "Imię jest wymagane")]
+        [Required(ErrorMessage = "First name is required")]
         public string FirstName { get; set; }
 
-        [Required(ErrorMessage = "Nazwisko jest wymagane")]
+        [Required(ErrorMessage = "Last name is required")]
         public string LastName { get; set; }
 
-        [Required(ErrorMessage = "Numer roku jest wymagany")]
-        public int NrRoku { get; set; }
+        [Required(ErrorMessage = "Year is required")]
+        public int YearNo { get; set; }
 
     }
 }

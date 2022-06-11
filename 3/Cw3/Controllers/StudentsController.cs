@@ -32,7 +32,7 @@ namespace Cw3.Controllers
         public IActionResult GetStudent(string indexNumber)
         {
             var student = _fileDbService.GetStudent(indexNumber);
-            if (student is null) return NotFound("Nie ma takiego studenta");
+            if (student is null) return NotFound("There is no such student.");
             return Ok(student);
         }
 
@@ -46,7 +46,7 @@ namespace Cw3.Controllers
             }
             else
             {
-                return BadRequest("Nr indexu już istnieje w bazie danych, podaj unikalny numer indeksu");
+                return BadRequest("This index number already exists in the database. Please enter a unique index number.");
             }
         }
 
@@ -60,11 +60,11 @@ namespace Cw3.Controllers
             }
             else if (result == 1)
             {
-                return NotFound("Student o podanym numerze nie istnieje");
+                return NotFound("Student with given index number does not exist.");
             }
             else if (result == 2)
             {
-                return BadRequest("Niespójność danych, numer indeksu inny w body i url");
+                return BadRequest("Invalid data, index number in body and in URL are different.");
             }
             else
                 return BadRequest();
@@ -80,7 +80,7 @@ namespace Cw3.Controllers
             }
             else if (result == 1)
             {
-                return NotFound("Student o podanym numerze nie istnieje");
+                return NotFound("Student with given index number does not exist");
             }
             else
                 return BadRequest();

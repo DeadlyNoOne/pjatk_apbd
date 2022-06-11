@@ -85,14 +85,14 @@ namespace Cw3.Services
                     var IndexNumber = csv.GetField(0);
                     var FirstName = csv.GetField(1);
                     var LastName = csv.GetField(2);
-                    var NrRoku = Int32.Parse(csv.GetField(3));
+                    var YearNo = Int32.Parse(csv.GetField(3));
 
                     resultList.Add(new Student
                     {
                         IndexNumber = IndexNumber,
                         FirstName = FirstName,
                         LastName = LastName,
-                        NrRoku = NrRoku
+                        YearNo = YearNo
                     });
                 }
             }
@@ -109,14 +109,14 @@ namespace Cw3.Services
                     var IndexNumber = csv.GetField(0);
                     var FirstName = csv.GetField(1);
                     var LastName = csv.GetField(2);
-                    var NrRoku = Int32.Parse(csv.GetField(3));
+                    var YearNo = Int32.Parse(csv.GetField(3));
 
                     resultList.Add(new Student
                     {
                         IndexNumber = IndexNumber,
                         FirstName = FirstName,
                         LastName = LastName,
-                        NrRoku = NrRoku
+                        YearNo = YearNo
                     });
                 }
             }
