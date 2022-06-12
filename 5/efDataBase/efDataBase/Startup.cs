@@ -26,7 +26,7 @@ namespace efDataBase
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<Models.s19754Context>(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
+            services.AddDbContext<Models.s21962Context>(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
             services.AddScoped<IDbService, DbService>();
             services.AddControllers();
         }
